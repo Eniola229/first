@@ -96,6 +96,7 @@ function AddEditUser() {
                     value={contact}
                     required
                     />
+                    <h1>Add file</h1>
                     <input type='file' onChange={(e) => setFile(e.target.files[0])} />
                     <button type="submit" disabled={progress !== null && progress < 100}>Add</button>
                 </form>
