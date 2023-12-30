@@ -11,7 +11,7 @@ function NavBar() {
     <Menu inverted borderless style={{padding:"0.4rem", marginButtom: "20px"}} attached>
         <Container>
         <div>
-            <h2>Crud With Upload Image</h2>
+            <h2>Crud Yhhhhhh With Upload Image</h2>
         </div>
         <div>
            <div position='right'>
